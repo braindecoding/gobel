@@ -1,0 +1,4 @@
+github.com/florianl/matf v0.0.0-20180627184710-937d4e2e11ce h1:it3AVWLf22nda8BFasyNX4+zlNdXEaEEYAL19haMOWw=
+github.com/florianl/matf v0.0.0-20180627184710-937d4e2e11ce/go.mod h1:IETFrF5qwIU1lPa/jXB/W5bruEfKuEPSKbAoevw3zDk=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
